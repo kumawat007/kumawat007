@@ -13,10 +13,6 @@ Currently learning through hands-on practice, small projects, and real-world tro
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/praveen56013310)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:p.kumawat252368@gmail.com)
 
-<!-- Snake Game Repo View -->
-##🥇 GitHub Activity Graph
-![Praveen's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumawat007&theme=react-dark)
-
 
 # 💻 Technologies I Have Worked With / Exploring:
 <!-- ❗UNCHANGED AS REQUESTED -->
@@ -27,6 +23,9 @@ Currently learning through hands-on practice, small projects, and real-world tro
 <!---- ![](https://github-readme-stats.vercel.app/api?username=kumawat007&theme=chartreuse-dark)
 ![](https://nirzak-streak-stats.vercel.app/?user=kumawat007&theme=chartreuse-dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kumawat007&layout=compact&theme=chartreuse-dark) --->
+
+##🥇 GitHub Activity Graph
+![Praveen's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumawat007&theme=react-dark)
 
 <!--- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kumawat007&theme=radical&no-bg=true) --->
