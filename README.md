@@ -24,9 +24,6 @@ Currently learning through hands-on practice, small projects, and real-world tro
 ![](https://nirzak-streak-stats.vercel.app/?user=kumawat007&theme=chartreuse-dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kumawat007&layout=compact&theme=chartreuse-dark) --->
 
-#🥇 GitHub Activity Graph:
-![Praveen's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumawat007&theme=react-dark)
-
 # 🖥️ Development Activity:
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumawat007&theme=github-compact)
 
