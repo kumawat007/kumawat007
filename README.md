@@ -1,12 +1,13 @@
 # 💫 Hi 👋, I'm Praveen Kumar
-**Junior Web Developer || IT Support & Operations || Tech Learner from India**
+**Junior Web Developer | IT Support & Operations | Learning Cloud & DevOps**
 
 Email Me 👉 ✉️ **p.kumawat252368@gmail.com**  
 For Collaboration, Learning Projects, or Entry-Level Opportunities. 😊
 
 ## 🔗 I am a Tech Learner & Beginner Content Sharer
 
-I document my learning journey and experiments while exploring web development, IT support, and modern tools.
+I am focused on building a strong foundation in web development and IT support.
+Currently learning through hands-on practice, small projects, and real-world troubleshooting.
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/praveen56013310)
