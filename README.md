@@ -10,8 +10,9 @@ I am focused on building a strong foundation in web development and IT support.
 Currently learning through hands-on practice, small projects, and real-world troubleshooting.
 
 ## 🔗 Connect:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/praveen56013310)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kumawat007_p)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:p.kumawat252368@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-My_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kumawat007-portfolio.vercel.app/)
 
 
 ## 💻 Technologies I Have Worked With / Exploring:
