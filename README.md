@@ -1,5 +1,5 @@
 # Hi 👋 I'm Praveen Kumar
-**Junior Web Developer | IT Support & Operations | Learning Cloud & DevOps**
+**AI/Web Developer | IT Support & Operations | Learning Cloud & DevOps**
 
 Email Me 👉 ✉️ **p.kumawat252368@gmail.com**  
 *For Collaboration, Learning Projects, or Entry-Level Opportunities.* 😊
