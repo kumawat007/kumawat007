@@ -14,6 +14,7 @@ Here are some of the real-world projects I have built and deployed:
   <li>📓 <strong>Mera Khata</strong> — <a href="https://merakhata007.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a></li>
   <li>🧪 <strong>Test Kraftonix</strong> — <a href="https://test-kraftonix.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a></li>
   <li>✈️ <strong>AeroMake3D</strong> — <a href="https://aeromake3d.netlify.app/" target="_blank" rel="noopener noreferrer">Live Demo</a></li>
+  <li>👨‍💻 <strong>Digital Seva Portal</strong> — <a href="https://digisevaportal.netlify.app" target="_blank" rel="noopener noreferrer">Live Demo</a></li>
   <li>🚧 <em>More awesome projects coming soon...</em></li>
 </ul>
 
