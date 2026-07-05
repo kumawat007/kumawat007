@@ -1,58 +1,57 @@
 # Hi, I'm Praveen Kumar 👋
 
-**Full Stack Software Engineer | Founder @Kraftonix | Bridging Code & Manufacturing**
+**Full-Stack Software Engineer | AI Developer | Founder @Kraftonix**
 
-I build robust backend systems, scalable web applications, and automated workflows. As the founder of Kraftonix, I don't just write code; I architect systems that handle real-world manufacturing operations, from double-entry financial ledgers to production database synchronization. I focus on clean architecture, database integrity, and solving complex business problems.
+I build scalable backend systems, robust database architectures, and automated software solutions tailored for the manufacturing and 3D printing industry. My focus is on writing clean, production-ready code that solves complex operational problems from digital design to physical production.
 
-✉️ **Reach out:** [p.kumawat252368@gmail.com](mailto:p.kumawat252368@gmail.com)
+📫 **Reach out:** [p.kumawat252368@gmail.com](mailto:p.kumawat252368@gmail.com) | [Portfolio](https://kumawat007-portfolio.vercel.app/) | [X (Twitter)](https://x.com/kumawat007_p)
 
 ---
 
-## 🚀 Engineering & Production Case Studies
+## 🚀 Core Systems & Production Builds
 
-### 🛒 [Kraftonix](https://kraftonix.vercel.app/) (Production Live)
-*An on-demand 3D printing and custom manufacturing platform.*
-*   **Architecture:** Architected and deployed the V1.5.0 Master Build.
-*   **Backend & DB:** Engineered a custom **double-entry ledger system** for precise financial tracking.
-*   **Data Integrity:** Implemented Prisma for robust database synchronization and production state locks.
-*   **Operations:** Software directly interfaces with physical manufacturing workflows (FDM & Resin 3D printing pipelines).
+### 🛒 [Kraftonix](https://kraftonix.vercel.app/) (Founder & Lead Engineer)
+*On-demand distributed 3D printing, custom tools, and manufacturing platform.*
+* **Architecture:** Engineered and deployed the Kraftonix V1.5.0 Master Build.
+* **Backend:** Built a custom double-entry ledger system for precision financial and operational tracking.
+* **Database:** Implemented full system locks and seamless database synchronization utilizing Prisma.
 
 ### 📓 [Mera Khata](https://merakhata007.vercel.app/)
-*   Designed a secure and scalable digital ledger application focused on high-performance data retrieval and accurate state management.
+* **Overview:** Digital ledger and financial tracking application designed for streamlined accounting.
 
 ### ✈️ [AeroMake3D](https://aeromake3d.netlify.app/)
-*   Developed a specialized platform catering to RC, drone spare parts, and custom engineering tool manufacturing. 
+* **Overview:** Platform dedicated to custom drone, RC spare parts manufacturing, and mini engineering components.
+
+*(Other live deployments: [Test Kraftonix](https://test-kraftonix.vercel.app/) | [Digital Seva Portal](https://digisevaportal.netlify.app))*
 
 ---
 
-## 💻 Technical Arsenal
+## 💻 Core Engineering Stack
 
-> *I only list technologies I can confidently use to build and scale production systems.*
+**Frontend & Architecture:**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Architecture & Backend:**
-*   Node.js | REST APIs | Prisma ORM
-*   Database Management: MySQL | Relational Data Modeling
+**Backend, Data & Infrastructure:**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
-**Frontend & Client-Side:**
-*   React | Next.js | TypeScript
-*   Tailwind CSS | JavaScript (ES6+)
-
-**Infrastructure & Manufacturing:**
-*   Git/GitHub Actions | Vercel | Linux Command Line
-*   3D Modeling & Slicing: SolidWorks, Blender, Tinkercad
+**Manufacturing & Hardware Tech:**
+![SolidWorks](https://img.shields.io/badge/SolidWorks-C32026?style=for-the-badge&logo=Dassault-Systèmes&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+> *Expertise in FDM & Resin 3D Printing, Custom Hardware Builds, and Rapid Prototyping.*
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumawat007&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" alt="Praveen's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumawat007&theme=radical&hide_border=true&background=0D1117&text=C9D1D9&icon=58A6FF&ring=58A6FF&fire=58A6FF" alt="Praveen's GitHub Streak" width="48%" />
-</div>
-
----
-<div align="center">
-  <a href="https://kumawat007-portfolio.vercel.app/" target="_blank">🌐 Portfolio</a> • 
-  <a href="https://x.com/kumawat007_p" target="_blank">🐦 X (Twitter)</a> • 
-  <a href="mailto:p.kumawat252368@gmail.com">📧 Email</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kumawat007&show_icons=true&theme=radical" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumawat007&theme=github-compact" alt="Activity Graph" width="48%" />
 </div>
